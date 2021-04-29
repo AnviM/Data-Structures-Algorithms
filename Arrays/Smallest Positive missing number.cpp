@@ -8,7 +8,11 @@ N = 5
 arr[] = {1,2,3,4,5}
 Output: 6
 Explanation: Smallest positive missing
-number is 6.*/
+number is 6.
+
+Question asked in : Accolite, Amazon, Samsung, Snapdeal
+Source : GeeksForGeeks 
+*/
 
 #include<bits/stdc++.h>
 using namespace std;
