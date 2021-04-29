@@ -11,7 +11,6 @@ Explanation: Smallest positive missing
 number is 6.
 
 Question asked in : Accolite, Amazon, Samsung, Snapdeal
-Source : GeeksForGeeks 
 */
 
 #include<bits/stdc++.h>
