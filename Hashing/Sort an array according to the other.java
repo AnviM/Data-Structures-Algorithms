@@ -15,6 +15,9 @@ Output:
 Explanation: Array elements of A1[] are sorted according to A2[]. So 2 comes first then 1 comes, then comes 8, then finally 3 comes, now we append remaining elements in
 sorted order.
 
+Expected Time Complexity: O(N * Log(N)).
+Expected Auxiliary Space: O(N).
+
 Asked in :  Amazon, Microsoft.
 */
 
