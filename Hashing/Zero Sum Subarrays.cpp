@@ -9,6 +9,9 @@ arr[] = {0,0,5,5,0,0}
 Output: 6
 Explanation: The 6 subarrays are [0], [0], [0], [0], [0,0], and [0,0].
 
+Expected Time Complexity : O(n)
+Expected Auxilliary Space : O(n)
+
 Asked in :  Amazon, Microsoft, OYO Rooms.
 */
 
